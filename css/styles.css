@@ -1,5 +1,13 @@
+html, body	{
+	height:		100%;
+	margin:		150;
+}
 body	{
-	padding-top:	30px;}
+	padding-top:	30px;
+	text-align:		center;
+	justify-content:	center;
+	align-items: center;}
+
 
 header	{
 	position:		sticky;
@@ -7,8 +15,3 @@ header	{
 table	{
 	width:	600px;
 }
-body	{
-	text-overflow:	ellipsis;
-	max-width:		900px;
-}
-
