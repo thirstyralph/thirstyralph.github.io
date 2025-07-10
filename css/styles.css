@@ -5,5 +5,10 @@ header	{
 	position:		sticky;
 }
 table	{
-	width:	600px;}
+	width:	600px;
+}
+body	{
+	text-overflow:	ellipsis;
+	max-width:		900px;
+}
 
